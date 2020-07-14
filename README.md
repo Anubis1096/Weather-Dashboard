@@ -20,7 +20,7 @@ WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 
 ## Link to deployed application
-
+https://anubis1096.github.io/Weather-Dashboard/index.html
 
 ## Screenshot
 
